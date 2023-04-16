@@ -1,0 +1,15 @@
+C:\Users\super\source\repos\Gestion De Clients\Gestion De Clients\bin\Debug\net6.0\Gestion De Clients.exe
+C:\Users\super\source\repos\Gestion De Clients\Gestion De Clients\bin\Debug\net6.0\Gestion De Clients.deps.json
+C:\Users\super\source\repos\Gestion De Clients\Gestion De Clients\bin\Debug\net6.0\Gestion De Clients.runtimeconfig.json
+C:\Users\super\source\repos\Gestion De Clients\Gestion De Clients\bin\Debug\net6.0\Gestion De Clients.dll
+C:\Users\super\source\repos\Gestion De Clients\Gestion De Clients\bin\Debug\net6.0\Gestion De Clients.pdb
+C:\Users\super\source\repos\Gestion De Clients\Gestion De Clients\obj\Debug\net6.0\Gestion De Clients.csproj.AssemblyReference.cache
+C:\Users\super\source\repos\Gestion De Clients\Gestion De Clients\obj\Debug\net6.0\Gestion De Clients.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\super\source\repos\Gestion De Clients\Gestion De Clients\obj\Debug\net6.0\Gestion De Clients.AssemblyInfoInputs.cache
+C:\Users\super\source\repos\Gestion De Clients\Gestion De Clients\obj\Debug\net6.0\Gestion De Clients.AssemblyInfo.cs
+C:\Users\super\source\repos\Gestion De Clients\Gestion De Clients\obj\Debug\net6.0\Gestion De Clients.csproj.CoreCompileInputs.cache
+C:\Users\super\source\repos\Gestion De Clients\Gestion De Clients\obj\Debug\net6.0\Gestion De Clients.dll
+C:\Users\super\source\repos\Gestion De Clients\Gestion De Clients\obj\Debug\net6.0\refint\Gestion De Clients.dll
+C:\Users\super\source\repos\Gestion De Clients\Gestion De Clients\obj\Debug\net6.0\Gestion De Clients.pdb
+C:\Users\super\source\repos\Gestion De Clients\Gestion De Clients\obj\Debug\net6.0\Gestion De Clients.genruntimeconfig.cache
+C:\Users\super\source\repos\Gestion De Clients\Gestion De Clients\obj\Debug\net6.0\ref\Gestion De Clients.dll
